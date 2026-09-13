@@ -107,7 +107,7 @@ Currently, I am strengthening my foundation in **Python, SQL, statistics, machin
 
 ## 🚀 Featured Projects
 
-### 🛡️ Phishing URL Detection System
+### 🛡️ IVE — Intelligent URL Verification Engine
 
 A machine learning project for classifying URLs as **phishing or legitimate**.
 
@@ -123,7 +123,7 @@ A machine learning project for classifying URLs as **phishing or legitimate**.
 * Model evaluation
 * Phishing URL classification
 
-🔗 **[View Repository](https://github.com/Koushik-Depur)**
+🔗 **[View Repository](https://github.com/Koushik-Depur/intelligent-url-verification-engine)**
 
 ---
 
